@@ -12,12 +12,12 @@
 <ul>
   <li></li>
   <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Topic vlogs.</li>
+  <li>Business growth.</li>
+  <li>Product Development.</li>
 </ul>
 </div>
 
 <div>
 <h2>Future Features</h2>
-<p>Niche specific builds</p>
+<p>eCommerce Solution
