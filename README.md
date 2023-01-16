@@ -6,12 +6,12 @@
 </div> 
 
 <div>
-<h2>Reasoning</h2>
-<p>Spent the majority of my learning on Business Administration path but with acceptance into Software Developer program, I need to get my mind back on the programming map. It is time for me to incorporate management thinking into my programing style in effort to move beyond business development planning.</p>
+<h2>Purpose</h2>
+<p>Develop understanding of a child's personal brand in teaching them about self-respect, self-esteem and taking full responsibility of own actions.  How their actions can reflect their online presentation and how parents can successful build their child's digital portfolio 100% in their control versus using social media.</p>
 
 <ul>
-  <li></li>
-  <li></li>
+  <li>Personal growth.</li>
+  <li>Academic achievements.</li>
   <li>Topic vlogs.</li>
   <li>Business growth.</li>
   <li>Product Development.</li>
